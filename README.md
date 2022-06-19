@@ -1,2 +1,2 @@
 # Improved-fighting-game
-Original game by Chris Courses (YouTube). You can view his here https://chriscourses-fighting-game.netlify.app/. I have used his original code and added more features.
+Original game by Chris Courses (YouTube). You can view his here https://chriscourses-fighting-game.netlify.app/. I have used his original code and added more features and just improved some of the the current gameplay. In this version, you have a start button, which will take start the game and you can also turn your player so, it isn't stuck to being able to fight in one direction.
